@@ -1,0 +1,2 @@
+hello worldhello worlda模式进行追加，不会清空原本内容！！
+a模式进行追加，不会清空原本内容！！
